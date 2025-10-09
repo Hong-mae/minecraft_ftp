@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/hongmae/Desktop/minecraft/Nebula/workspace/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "홍매서버 (Minecraft 1.21.10)",
+    "description": "그냥 놀이터 겸 만드는 서버",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.17.2"
+  },
+  "untrackedFiles": []
+}
