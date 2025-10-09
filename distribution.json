@@ -13,6 +13,7 @@
       "description": "그냥 놀이터 겸 만드는 서버",
       "icon": null,
       "version": "1.0.0",
+      "address": "localhost:25565",
       "minecraftVersion": "1.21.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
